@@ -23,7 +23,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Designación de magistrados de la Justicia Federal y de la Justicia Nacional
+### Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional
 
 -   **Nombre:** magistrados-justicia-federal-nacional-designacion.csv
 
