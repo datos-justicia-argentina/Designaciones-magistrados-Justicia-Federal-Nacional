@@ -6,7 +6,7 @@ En este conjunto de datos se detalla las designaciones de jueces, fiscales y def
 Características
 ---------------
 
--   **Fecha de Primera Publicación:**
+-   **Fecha de Primera Publicación:** 16/06/2017
 
 -   **Tags o Etiquetas:** judicial, juez, fiscal, defensor, magistrado, cargo, federal, nacional, justicia, designaciones
 
