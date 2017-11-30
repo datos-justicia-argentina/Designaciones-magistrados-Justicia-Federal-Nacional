@@ -49,6 +49,8 @@ Recursos disponibles
 
 -   **nombren_magistrado (string):** nombre del juez, fiscal o defensor
 
+-   **magistrado_sexo (string):** sexo del magistrado
+
 -   **fecha_designacion (date):** fecha de designación del juez, fiscal o defensor
 
 -   **norma_designacion (string):** número del decreto o resolución de designación del juez, fiscal o defensor
