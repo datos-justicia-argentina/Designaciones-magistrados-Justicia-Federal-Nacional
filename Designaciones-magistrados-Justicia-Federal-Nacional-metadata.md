@@ -1,7 +1,7 @@
 Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional
 =============================================================================
 
-En este conjunto de datos se detalla las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina.
+En este conjunto de datos se detallan las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina.
 
 Características
 ---------------
