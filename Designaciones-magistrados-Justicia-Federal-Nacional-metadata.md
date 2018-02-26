@@ -3,12 +3,14 @@ Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional
 
 En este conjunto de datos se detallan las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina.
 
+http://datos.jus.gob.ar/dataset/designaciones-de-magistrados-de-la-justicia-federal-y-la-justicia-nacional
+
 Características
 ---------------
 
 -   **Fecha de Primera Publicación:** 16/06/2017
 
--   **Tags o Etiquetas:** judicial, juez, fiscal, defensor, magistrado, cargo, federal, nacional, justicia, designaciones
+-   **Tags o Etiquetas:** judiciales, jueces, fiscales, defensores, magistrados, cargos, federales, nacionales, justicia, designaciones
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre:** magistrados-justicia-federal-nacional-designaciones-AAAA-MM-DD.csv
 
--   **Descripción:** información de las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
+-   **Descripción del contenido:** se detallan las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
