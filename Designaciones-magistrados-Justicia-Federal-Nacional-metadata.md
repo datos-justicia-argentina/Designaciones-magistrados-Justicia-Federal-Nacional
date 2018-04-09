@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** designaciones de magistrados hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** designaciones de magistrados desde el año 1976 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
