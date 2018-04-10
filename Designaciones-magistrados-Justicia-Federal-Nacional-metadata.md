@@ -51,7 +51,7 @@ Recursos disponibles
 
 -   **nombren_magistrado (string):** nombre del juez, fiscal o defensor
 
--   **magistrado_genero (string):** genero del magistrado
+-   **magistrado_genero (string):** género del magistrado
 
 -   **fecha_designacion (date):** fecha de designación del juez, fiscal o defensor
 
