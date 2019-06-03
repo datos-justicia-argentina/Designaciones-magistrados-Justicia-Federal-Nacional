@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional - AAAA-MM-DD
+### Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional - AAAAMMDD
 
--   **Nombre:** magistrados-justicia-federal-nacional-designaciones-AAAA-MM-DD.csv
+-   **Nombre:** magistrados-justicia-federal-nacional-designaciones-AAAAMMDD.csv
 
 -   **Descripción del contenido:** se detallan las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
 
