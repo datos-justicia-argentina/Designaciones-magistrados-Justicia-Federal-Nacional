@@ -63,7 +63,7 @@ Recursos disponibles
 
 -   **ministro (string):** nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación
 
--   **organo_provincia_indec_id (int):** código de la provincia en la que se encuentra ubicado geográficamente el órgano, según la codificación de provincia implementada por INDEC (tener en cuenta que las jurisdicciones federales no coinciden con la división política en provincias de la República)
+-   **organo_provincia_id (int):** código de la provincia en la que se encuentra ubicado geográficamente el órgano, según la codificación de provincia implementada por INDEC (tener en cuenta que las jurisdicciones federales no coinciden con la división política en provincias de la República. Hasta 05/2019 nombre campo organo_provincia_indec_id)
 
 ### Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional - AAAA
 
